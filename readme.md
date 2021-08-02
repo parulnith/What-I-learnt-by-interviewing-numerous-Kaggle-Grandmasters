@@ -23,7 +23,7 @@ Kaggle tracks users performance by awarding medals in the four different categor
 
 Based on your number of medals you earn you could be one or more of the following:
 
-![#15f048](https://via.placeholder.com/15/f03c15/000000?text=+) `Novice` 
+![#6cc644](https://via.placeholder.com/15/f03c15/000000?text=+) `Novice` 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Contributor`
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Expert`
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Master`
