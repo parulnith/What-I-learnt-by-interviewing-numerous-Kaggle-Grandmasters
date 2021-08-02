@@ -15,7 +15,7 @@ Kaggle is a subsidiary of Google LLC, is an online community of data scientists 
 
 ## Kaggle Progression System
 Kaggle tracks users performance by awarding medals in the four different categories:
-![]('/Contribution.png')
+![]('./Data/Contribution.png')
 
 
 
