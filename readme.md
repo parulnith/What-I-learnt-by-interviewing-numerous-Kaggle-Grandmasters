@@ -9,6 +9,10 @@ Over the past two years, I have had the opportunity to interview some of the fin
 
 </div>
 
+## Kaggle
+
+Kaggle is a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners. One can participate in various data science competitions, share code and datasets, and indulge in Data Science related discussions.
+
 | Name | Profile Pic| Link to Kaggle Profile | Number of times in Top 5<sup>2</sup> | Golden Advice | Written Interview |
 |------| ---------- | ---------------------- | :-----------------------: | ------------- |-------------------| 
 | Dmitry Gordeev | ![](https://media-private.canva.com/qIXUo/MAEg5WqIXUo/1/tl.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20210716%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210716T101321Z&X-Amz-Expires=102243&X-Amz-Signature=848918bd2da530fcd0a386e46cf05c1f1627655270651b248dd3d71c890f5b01&X-Amz-SignedHeaders=host&response-expires=Sat%2C%2017%20Jul%202021%2014%3A37%3A24%20GMT) | [![Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle%20Profile&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/dott1718) |  7 | “The common approaches and state-of-the-art models usually suffice to achieve impressive results. But if you want to do better, you have to think outside the box. And it is a field with endless opportunities to be creative.”| [![View on Medium](https://img.shields.io/badge/Medium-grey?logo=medium)](https://towardsdatascience.com/what-does-it-take-to-win-a-kaggle-competition-lets-hear-it-from-the-winner-himself-1d292a9f5b2d) |
