@@ -8,8 +8,7 @@
 
 </div>
 
-
-Over the past two years, I have had the opportunity to interview some of the finest Kaggle Grandmasters. Not only have I learnt about their journey to the top but I have 
+Over the past year, I have had the opportunity to interview some of the finest Kaggle Grandmasters. Not only have I learnt about their journey to the top but I have also got a first-hand idea about their journey and their dedication towards their craft. The list below is a consolidation of all the interviews that I have conducted so far. Some of these interviews are a couple of years old(for instance both Bojan and Rohan are now Grandmasters in all the four categories) and I intend to update them to reflect the latest rankings and status. However, their golden advice and their experience holds true today and will always.
 
 
 
