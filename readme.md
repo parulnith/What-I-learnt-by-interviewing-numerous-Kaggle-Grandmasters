@@ -21,12 +21,12 @@ Over the past two years, I have had the opportunity to interview some of the fin
 Kaggle tracks users performance by awarding medals in the four different categories:
 ![Alt Text](Data/categories.png)
 
-<div style="color:#FF0000">
-  Based on your number of medals, you could be a Novice, Contributor, Expert, Master, and Grandmaster.
+
+<span style="color:blue">some *blue* text</span>.   Novice, Contributor, Expert, Master, and Grandmaster.
 <br>
 <br> 
 
-</div>
+
 
 
 | Name | Profile Pic| Link to Kaggle Profile | Number of times in Top 5<sup>2</sup> | Golden Advice | Written Interview |
