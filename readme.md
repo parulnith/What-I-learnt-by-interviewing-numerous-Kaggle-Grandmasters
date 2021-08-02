@@ -47,9 +47,10 @@ Based on your number of medals you earn you could be one or more of the followin
 | Bojan Tunguz | ![](https://storage.googleapis.com/kaggle-avatars/images/417337-fb.jpg)|[![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle%20Profile&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/tunguz) | 3 |"Familiarize yourself with all those resources. Come up with a reasonable plan that works for you. It’s essential to build your technical skills but invest time to work on your “soft” skills as well: writing, communication, networking, etc. Be patient with yourself and allow yourself time to grow and develop. Don’t be afraid to fail. Make the point to learn from your failures. And, most importantly, try to have fun and enjoy your journey in its own right as much as possible." | [![View on Medium](https://img.shields.io/badge/Medium-grey?logo=medium)](https://towardsdatascience.com/from-academia-to-kaggle-how-a-physicist-found-love-in-data-science-d57bdc500d04) |
 | Rohan Rao | ![](https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/RohanRao.JPG/220px-RohanRao.JPG) | [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle%20Profile&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/rohanrao) | 2 |"My advice to others would be to identify an area that suits their skill-sets and then work towards solving a problem in that direction. It is essential to be hands-on in any DS work because it is only then one can understand all the nitty-gritty of the profile. Working on DS projects as part of a company/team as a full-time contributor is also preferable because it gives exposure to the entire workflow of a DS project" | [![Medium](https://img.shields.io/badge/Medium-grey?logo=medium)](https://towardsdatascience.com/a-data-scientists-journey-from-sudoku-to-kaggle-120876b7fa33)|
 
-
+<sub>
 1. This list will be updated as soon as I publish a new interview.
 2. Subject to change
+</sub>
 
 ## [Other Articles](https://github.com/parulnith/Data-Science-Articles#readme)
 A collection of my blogs on Data Science and Machine learning.These are hosted on [Medium](https://medium.com/@pandeyparul) as well as my [Website](parulpandey.com).
