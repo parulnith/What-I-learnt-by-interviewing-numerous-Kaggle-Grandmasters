@@ -51,6 +51,9 @@ Based on your number of medals you earn you could be one or more of the followin
 1. This list will be updated as soon as I publish a new interview.
 2. Subject to change
 
-## Thanks 🙏
+## [Other Articles](https://github.com/parulnith/Data-Science-Articles#readme)
+A collection of my blogs on Data Science and Machine learning.These are hosted on [Medium](https://medium.com/@pandeyparul) as well as my [Website](parulpandey.com).
+
+## [Subscribe to my Newsletter](https://parulpandey.substack.com/archive)
 
 
