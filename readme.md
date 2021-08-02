@@ -15,7 +15,7 @@ Over the past two years, I have had the opportunity to interview some of the fin
 
 ## Kaggle Progression System
 Kaggle tracks users performance by awarding medals in the four different categories:
-![]('../Data/Categories.png')
+![]('Data/Categories.png')
 
 
 
