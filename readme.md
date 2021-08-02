@@ -1,5 +1,5 @@
 
-# What I learnt by intervewing numerous Kaggle Grandmasters
+# What I learnt by interviewing numerous Kaggle Grandmasters
 
 Over the past two years, I have had the opportunity to interview some of the finest Kaggle Grandmasters. Not only have I learnt about their journey to the top but I have 
 
