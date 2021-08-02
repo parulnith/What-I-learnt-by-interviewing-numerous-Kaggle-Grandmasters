@@ -25,9 +25,9 @@ Based on your number of medals you earn you could be one or more of the followin
 
 ![#6cc644](https://via.placeholder.com/15/6cc644/000000?text=+) `Novice` 
 ![#15cff0](https://via.placeholder.com/15/15cff0/000000?text=+) `Contributor`
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Expert`
+![#8d15f0](https://via.placeholder.com/15/8d15f0/000000?text=+) `Expert`
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Master`
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Grandmaster`
+![#f0b215](https://via.placeholder.com/15/f0b215/000000?text=+) `Grandmaster`
 
 <br>
 <br> 
