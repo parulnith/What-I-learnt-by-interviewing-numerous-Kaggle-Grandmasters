@@ -48,15 +48,15 @@ Based on your number of medals you earn you could be one or more of the followin
 | Rohan Rao | ![](https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/RohanRao.JPG/220px-RohanRao.JPG) | [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Kaggle%20Profile&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/rohanrao) | 2 |"My advice to others would be to identify an area that suits their skill-sets and then work towards solving a problem in that direction. It is essential to be hands-on in any DS work because it is only then one can understand all the nitty-gritty of the profile. Working on DS projects as part of a company/team as a full-time contributor is also preferable because it gives exposure to the entire workflow of a DS project" | [![Medium](https://img.shields.io/badge/Medium-grey?logo=medium)](https://towardsdatascience.com/a-data-scientists-journey-from-sudoku-to-kaggle-120876b7fa33)|
 
 
-<sub>
-1. This list will be updated as soon as I publish a new interview.
- <br>
-2. Subject to change
-</sub>
-
 ## [Other Articles](https://github.com/parulnith/Data-Science-Articles#readme)
 A collection of my blogs on Data Science and Machine learning.These are hosted on [Medium](https://medium.com/@pandeyparul) as well as my [Website](parulpandey.com).
 
 ## [Subscribe to my Newsletter](https://parulpandey.substack.com/archive)
 
 
+
+<sub>
+1. This list will be updated as soon as I publish a new interview.
+ <br>
+2. Subject to change
+</sub>
