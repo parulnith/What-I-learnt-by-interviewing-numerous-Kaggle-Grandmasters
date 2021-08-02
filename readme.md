@@ -27,6 +27,13 @@ Kaggle tracks users performance by awarding medals in the four different categor
 <br> 
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 
 | Name | Profile Pic| Link to Kaggle Profile | Number of times in Top 5<sup>2</sup> | Golden Advice | Written Interview |
