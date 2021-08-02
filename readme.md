@@ -21,21 +21,17 @@ Over the past two years, I have had the opportunity to interview some of the fin
 Kaggle tracks users performance by awarding medals in the four different categories:
 ![Alt Text](Data/categories.png)
 
+Based on your number of medals you earn you could be one or more of the following:
 
-<span style="color:blue">Novice, Contributor, Expert, Master, and Grandmaster.</span>.   
+![#00e6ac](https://via.placeholder.com/15/f03c15/000000?text=+) `Novice` 
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Contributor`
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Expert`
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Master`
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Grandmaster`
+
 <br>
 <br> 
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Novice` ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Novice`
-
-
-```diff
-- Novice
-+ Contributor
-! Expert
-# Master
-@@ Grandmaster
-```
 
 
 | Name | Profile Pic| Link to Kaggle Profile | Number of times in Top 5<sup>2</sup> | Golden Advice | Written Interview |
