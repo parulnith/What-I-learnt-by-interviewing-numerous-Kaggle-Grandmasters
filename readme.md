@@ -22,7 +22,7 @@ Kaggle tracks users performance by awarding medals in the four different categor
 ![Alt Text](Data/categories.png)
 
 
-<span style="color:blue">some *blue* text</span>.   Novice, Contributor, Expert, Master, and Grandmaster.
+<span style="color:blue">Novice, Contributor, Expert, Master, and Grandmaster.</span>.   
 <br>
 <br> 
 
