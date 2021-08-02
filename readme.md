@@ -11,11 +11,11 @@ Over the past two years, I have had the opportunity to interview some of the fin
 
 ## Kaggle
 
-Kaggle is a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners. One can participate in various data science competitions, share code and datasets, and indulge in Data Science related discussions.
+[Kaggle](www.kaggle.com) is an online community of data scientists and machine learning practitioners. One can participate in various data science competitions, share code and datasets, and indulge in Data Science related discussions.
 
 ## Kaggle Progression System
 Kaggle tracks users performance by awarding medals in the four different categories:
-![]('./Data/Categories.png')
+![]('../Data/Categories.png')
 
 
 
