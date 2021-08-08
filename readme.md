@@ -47,7 +47,7 @@ Based on your number of medals you earn you could be one or more of the followin
 
 
 ## [Other Articles](https://github.com/parulnith/Data-Science-Articles#readme)
-A collection of my blogs on Data Science and Machine learning.These are hosted on [Medium](https://medium.com/@pandeyparul) as well as my [Website](parulpandey.com).
+A collection of my blogs on Data Science and Machine learning.These are hosted on [Medium](https://medium.com/@pandeyparul) as well as my [Website](https://parulpandey.com/).
 
 ## [Subscribe to my Newsletter](https://parulpandey.substack.com/archive)
 
